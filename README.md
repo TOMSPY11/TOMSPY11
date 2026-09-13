@@ -1,4 +1,4 @@
-<h1 align="center">Holaaa Guy North aka(TOMSPY11)</h1>
+<h1 align="center">Holaaa Guy,im North aka(TOMSPY11)</h1>
 <h3 align="center">IM Studying EE at kmutnb,doing some stuff like sound design for games and game Dev but right now I'm working on Aero space and Networking also I'm making some PCB! On kicad</h3>
 
 - I’m currently working on [KNACKSAT AND KNARO (rocket and sat)](https://github.com/TOMSPY11/kmutnb_rocket69)
